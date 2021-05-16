@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/GlobalPandamic/static/css/main.5b0114c8.chunk.css",
+    "main.js": "/GlobalPandamic/static/js/main.985d3942.chunk.js",
+    "main.js.map": "/GlobalPandamic/static/js/main.985d3942.chunk.js.map",
+    "runtime-main.js": "/GlobalPandamic/static/js/runtime-main.e9c6c3e4.js",
+    "runtime-main.js.map": "/GlobalPandamic/static/js/runtime-main.e9c6c3e4.js.map",
+    "static/js/2.70947ac0.chunk.js": "/GlobalPandamic/static/js/2.70947ac0.chunk.js",
+    "static/js/2.70947ac0.chunk.js.map": "/GlobalPandamic/static/js/2.70947ac0.chunk.js.map",
+    "static/js/3.6c773939.chunk.js": "/GlobalPandamic/static/js/3.6c773939.chunk.js",
+    "static/js/3.6c773939.chunk.js.map": "/GlobalPandamic/static/js/3.6c773939.chunk.js.map",
+    "index.html": "/GlobalPandamic/index.html",
+    "static/css/main.5b0114c8.chunk.css.map": "/GlobalPandamic/static/css/main.5b0114c8.chunk.css.map",
+    "static/js/2.70947ac0.chunk.js.LICENSE.txt": "/GlobalPandamic/static/js/2.70947ac0.chunk.js.LICENSE.txt",
+    "static/media/aboutbg.718c8b67.svg": "/GlobalPandamic/static/media/aboutbg.718c8b67.svg",
+    "static/media/bg.6b2707e4.svg": "/GlobalPandamic/static/media/bg.6b2707e4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9c6c3e4.js",
+    "static/js/2.70947ac0.chunk.js",
+    "static/css/main.5b0114c8.chunk.css",
+    "static/js/main.985d3942.chunk.js"
+  ]
+}
