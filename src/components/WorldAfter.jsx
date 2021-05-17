@@ -10,14 +10,14 @@ const useStyles = makeStyles((theme) => ({
 
         height: "100vh",
         width: "100vw",
-        background: "url( https://images.unsplash.com/photo-1602542165989-999c53234fdd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80 )",
+        background: "url( https://images.unsplash.com/photo-1585850417478-cf203b4ac9b1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80 )",
         backgroundSize: "cover",
         paddingTop: "10%",
         backgroundAttachment: "fixed",
         backgroundRepeat: "no-repeat",
 
         [theme.breakpoints.down('sm')]: {
-            height: "230vh",
+            height: "255vh",
         },
 
         [theme.breakpoints.up('sm')]: {

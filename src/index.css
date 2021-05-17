@@ -32,7 +32,7 @@ code {
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #000;
+  background: #00ff0d;
   -webkit-transition: 2s ease;
   transition: 2s ease;
 }

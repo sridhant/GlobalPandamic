@@ -9,7 +9,7 @@ const useStyles = makeStyles((theme) => ({
 
         height: "100vh",
         width: "100vw",
-        background: "url( https://images.unsplash.com/photo-1611802647139-91d19b9bb056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80)",
+        background: "url( https://images.unsplash.com/photo-1437846972679-9e6e537be46e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1502&q=80 )",
         backgroundSize: "cover",
         paddingTop: "10%",
         backgroundAttachment: "fixed",
