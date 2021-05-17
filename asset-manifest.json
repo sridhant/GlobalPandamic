@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/GlobalPandamic/static/css/main.15e5bb37.chunk.css",
-    "main.js": "/GlobalPandamic/static/js/main.db42e9d9.chunk.js",
-    "main.js.map": "/GlobalPandamic/static/js/main.db42e9d9.chunk.js.map",
+    "main.css": "/GlobalPandamic/static/css/main.2dfef99d.chunk.css",
+    "main.js": "/GlobalPandamic/static/js/main.f451e95a.chunk.js",
+    "main.js.map": "/GlobalPandamic/static/js/main.f451e95a.chunk.js.map",
     "runtime-main.js": "/GlobalPandamic/static/js/runtime-main.ad8caa3f.js",
     "runtime-main.js.map": "/GlobalPandamic/static/js/runtime-main.ad8caa3f.js.map",
-    "static/js/2.9d7d31a2.chunk.js": "/GlobalPandamic/static/js/2.9d7d31a2.chunk.js",
-    "static/js/2.9d7d31a2.chunk.js.map": "/GlobalPandamic/static/js/2.9d7d31a2.chunk.js.map",
+    "static/js/2.92589a4f.chunk.js": "/GlobalPandamic/static/js/2.92589a4f.chunk.js",
+    "static/js/2.92589a4f.chunk.js.map": "/GlobalPandamic/static/js/2.92589a4f.chunk.js.map",
     "static/js/3.1d677bba.chunk.js": "/GlobalPandamic/static/js/3.1d677bba.chunk.js",
     "static/js/3.1d677bba.chunk.js.map": "/GlobalPandamic/static/js/3.1d677bba.chunk.js.map",
     "index.html": "/GlobalPandamic/index.html",
-    "static/css/main.15e5bb37.chunk.css.map": "/GlobalPandamic/static/css/main.15e5bb37.chunk.css.map",
-    "static/js/2.9d7d31a2.chunk.js.LICENSE.txt": "/GlobalPandamic/static/js/2.9d7d31a2.chunk.js.LICENSE.txt",
-    "static/media/aboutbg.718c8b67.svg": "/GlobalPandamic/static/media/aboutbg.718c8b67.svg",
+    "static/css/main.2dfef99d.chunk.css.map": "/GlobalPandamic/static/css/main.2dfef99d.chunk.css.map",
+    "static/js/2.92589a4f.chunk.js.LICENSE.txt": "/GlobalPandamic/static/js/2.92589a4f.chunk.js.LICENSE.txt",
+    "static/media/aboutbg.f6409b21.svg": "/GlobalPandamic/static/media/aboutbg.f6409b21.svg",
     "static/media/bg.6b2707e4.svg": "/GlobalPandamic/static/media/bg.6b2707e4.svg",
+    "static/media/detect.7db71fc4.svg": "/GlobalPandamic/static/media/detect.7db71fc4.svg",
     "static/media/worldafterbg.b5735b48.svg": "/GlobalPandamic/static/media/worldafterbg.b5735b48.svg",
     "static/media/worldbg.a1537b21.svg": "/GlobalPandamic/static/media/worldbg.a1537b21.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ad8caa3f.js",
-    "static/js/2.9d7d31a2.chunk.js",
-    "static/css/main.15e5bb37.chunk.css",
-    "static/js/main.db42e9d9.chunk.js"
+    "static/js/2.92589a4f.chunk.js",
+    "static/css/main.2dfef99d.chunk.css",
+    "static/js/main.f451e95a.chunk.js"
   ]
 }
