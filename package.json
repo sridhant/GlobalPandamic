@@ -1,6 +1,6 @@
 {
   "name": "globalpandamic",
-  "homepage": "https://sridhant.github.io/GlobalPandamic",  
+  "homepage": "https://sridhant.github.io/GlobalPandamic",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +9,8 @@
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "aos": "^2.3.4",
+    "gsap": "^3.6.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
