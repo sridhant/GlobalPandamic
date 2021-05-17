@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/GlobalPandamic/static/css/main.5b0114c8.chunk.css",
-    "main.js": "/GlobalPandamic/static/js/main.985d3942.chunk.js",
-    "main.js.map": "/GlobalPandamic/static/js/main.985d3942.chunk.js.map",
-    "runtime-main.js": "/GlobalPandamic/static/js/runtime-main.e9c6c3e4.js",
-    "runtime-main.js.map": "/GlobalPandamic/static/js/runtime-main.e9c6c3e4.js.map",
-    "static/js/2.70947ac0.chunk.js": "/GlobalPandamic/static/js/2.70947ac0.chunk.js",
-    "static/js/2.70947ac0.chunk.js.map": "/GlobalPandamic/static/js/2.70947ac0.chunk.js.map",
-    "static/js/3.6c773939.chunk.js": "/GlobalPandamic/static/js/3.6c773939.chunk.js",
-    "static/js/3.6c773939.chunk.js.map": "/GlobalPandamic/static/js/3.6c773939.chunk.js.map",
+    "main.css": "/GlobalPandamic/static/css/main.15e5bb37.chunk.css",
+    "main.js": "/GlobalPandamic/static/js/main.db42e9d9.chunk.js",
+    "main.js.map": "/GlobalPandamic/static/js/main.db42e9d9.chunk.js.map",
+    "runtime-main.js": "/GlobalPandamic/static/js/runtime-main.ad8caa3f.js",
+    "runtime-main.js.map": "/GlobalPandamic/static/js/runtime-main.ad8caa3f.js.map",
+    "static/js/2.9d7d31a2.chunk.js": "/GlobalPandamic/static/js/2.9d7d31a2.chunk.js",
+    "static/js/2.9d7d31a2.chunk.js.map": "/GlobalPandamic/static/js/2.9d7d31a2.chunk.js.map",
+    "static/js/3.1d677bba.chunk.js": "/GlobalPandamic/static/js/3.1d677bba.chunk.js",
+    "static/js/3.1d677bba.chunk.js.map": "/GlobalPandamic/static/js/3.1d677bba.chunk.js.map",
     "index.html": "/GlobalPandamic/index.html",
-    "static/css/main.5b0114c8.chunk.css.map": "/GlobalPandamic/static/css/main.5b0114c8.chunk.css.map",
-    "static/js/2.70947ac0.chunk.js.LICENSE.txt": "/GlobalPandamic/static/js/2.70947ac0.chunk.js.LICENSE.txt",
+    "static/css/main.15e5bb37.chunk.css.map": "/GlobalPandamic/static/css/main.15e5bb37.chunk.css.map",
+    "static/js/2.9d7d31a2.chunk.js.LICENSE.txt": "/GlobalPandamic/static/js/2.9d7d31a2.chunk.js.LICENSE.txt",
     "static/media/aboutbg.718c8b67.svg": "/GlobalPandamic/static/media/aboutbg.718c8b67.svg",
-    "static/media/bg.6b2707e4.svg": "/GlobalPandamic/static/media/bg.6b2707e4.svg"
+    "static/media/bg.6b2707e4.svg": "/GlobalPandamic/static/media/bg.6b2707e4.svg",
+    "static/media/worldafterbg.b5735b48.svg": "/GlobalPandamic/static/media/worldafterbg.b5735b48.svg",
+    "static/media/worldbg.a1537b21.svg": "/GlobalPandamic/static/media/worldbg.a1537b21.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9c6c3e4.js",
-    "static/js/2.70947ac0.chunk.js",
-    "static/css/main.5b0114c8.chunk.css",
-    "static/js/main.985d3942.chunk.js"
+    "static/js/runtime-main.ad8caa3f.js",
+    "static/js/2.9d7d31a2.chunk.js",
+    "static/css/main.15e5bb37.chunk.css",
+    "static/js/main.db42e9d9.chunk.js"
   ]
 }
